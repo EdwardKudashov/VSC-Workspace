@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+}
+.main-content{
+    margin: 0 auto;
+}
+.logo-images {
+    width:200px;
+}
+.details-image{
+    width: 300px;
+   }
+
+.logo-titles{
+    width:150px;
+    text-align: left;
+    display: inline-block;
+    font-size: 15px;
+}
+.logo-anchors{
+    display:block;
+    text-align: center;
+}
